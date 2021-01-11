@@ -3,7 +3,7 @@
 ```python
 Step-1.本机需要安装好 docker + docker-compose
 Step-2.开启docker服务
-Step-3.确保本机的 3306端口 以及 3031端口未被占用
+Step-3.确保本机的 3306端口(mysql) 以及 3031端口(web_api) 未被占用
 Step-4.本机docker更换国内镜像源加速.
   "registry-mirrors": [
       "http://f1361db2.m.daocloud.io",
