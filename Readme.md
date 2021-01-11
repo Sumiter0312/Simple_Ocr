@@ -193,6 +193,6 @@ def list(self, request, *args, **kwargs):
 
 # *error*
 
-![error](/Users/songyi/PycharmProjects/Ocr_demo/upload/error.png)
+![error](https://gitee.com/NanShan312/Ocr_pro/edit/master/upload/error.jpg)
 
 - `此error => y 即可`
